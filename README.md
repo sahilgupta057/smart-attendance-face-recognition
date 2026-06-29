@@ -24,10 +24,4 @@ pip install -r requirements.txt
 
 python main.py
 
-## Project Structure
 
-## Screenshots
-
-## Future Improvements
-
-## Author
